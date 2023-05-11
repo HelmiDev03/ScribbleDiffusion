@@ -116,14 +116,14 @@ export default function Home() {
             <div className="inline-block py-3 px-4 bg-brand text-black rounded-lg">
               🍿 This is a project from{" "}
               <Link
-                href="https://replicate.com?utm_source=project&utm_campaign=scribblediffusion"
+                href="https://geekhelmi.me/"
                 target="_blank"
               >
-                Replicate
+                Helmi
               </Link>
               . Want to build an app like this?{" "}<br />
               <Link
-                href="https://github.com/replicate/scribble-diffusion"
+                href="https://github.com/HelmiDev03/ScribbleDiffusion"
                 target="_blank"
               >
                 Fork it on GitHub
