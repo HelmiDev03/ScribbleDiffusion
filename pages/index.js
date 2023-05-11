@@ -129,7 +129,7 @@ export default function Home() {
                 Fork it on GitHub
               </Link>{" "}
             
-              .
+              
             </div>
           </div>
 
