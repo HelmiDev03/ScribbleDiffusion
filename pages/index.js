@@ -128,10 +128,7 @@ export default function Home() {
               >
                 Fork it on GitHub
               </Link>{" "}
-              or check out the{" "}
-              <Link href="https://youtu.be/6z07OdbrWOs" target="_blank">
-                video tutorial
-              </Link>
+            
               .
             </div>
           </div>
