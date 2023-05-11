@@ -14,7 +14,7 @@ export default function Footer({ events }) {
         
   
         
-        .
+        
       </div>
     </footer>
   );
