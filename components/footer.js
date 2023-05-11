@@ -7,7 +7,7 @@ export default function Footer({ events }) {
 
       <div className="text-center lil-text mt-8">
         Powered by{" "}
-        <Link href="https://github.com/HelmiDev03" target="_blank">
+        <Link href="https://geekhelmi.me/" target="_blank">
           Helmi Lakhder
         </Link>{" "}
      
