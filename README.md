@@ -1,6 +1,6 @@
 # 🖍️ Scribble Diffusion
 
-Try it out at [scribblediffusion.com](https://scribblediffusion.com)
+
 
 ## How it works
 
